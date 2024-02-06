@@ -1,3 +1,1 @@
 # webdriver-exercise
-
-npm install

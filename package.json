@@ -1,0 +1,22 @@
+{
+  "name": "webdriver-exercise",
+  "version": "1.0.0",
+  "description": "Try webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montlak/webdriver-exercise.git"
+  },
+  "author": "Jonatthan Rafael Zazueta Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montlak/webdriver-exercise/issues"
+  },
+  "homepage": "https://github.com/montlak/webdriver-exercise#readme",
+  "devDependencies": {
+    "@wdio/cli": "7.3.1"
+  }
+}
